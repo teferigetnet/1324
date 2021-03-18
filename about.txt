@@ -1,0 +1,6 @@
+First name: teferi
+Last name: getnet
+ID:1324
+Year:2013/2021
+Section:B
+Semister:first
